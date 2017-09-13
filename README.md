@@ -1,8 +1,8 @@
 ---
-summary: 'Make it perfect! This project gives you a chance to improve your portfolio website—a few solid weeks of pure improvement to make sure it’s amazing.'
-time: '10 hours'
-deliverables: 'Lots of files, lots of images, Jekyll'
-submit: 'https://algonquin.instructure.com/courses/501960/assignments/5002595'
+summary: "Make it perfect! This project gives you a chance to improve your portfolio website—a few solid weeks of pure improvement to make sure it’s amazing."
+time: "10 hours"
+deliverables: "Lots of files, lots of images, Jekyll"
+submit: "https://algonquin.instructure.com/courses/847182/assignments/7464421"
 ---
 
 # Final portfolio website
