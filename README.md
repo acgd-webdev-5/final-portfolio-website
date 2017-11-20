@@ -13,9 +13,9 @@ submit: "https://algonquin.instructure.com/courses/847182/assignments/7464421"
 
 **Really sweat all the details—it should be dripping with sweaty, awesome—*you*—details.**
 
-*If **Javascript** will help **improve** your website now is the time to add it—but if Javascript creates distractions don’t add any.*
+*If **JavaScript** will help **improve** your website now is the time to add it—but if JavaScript creates distractions don’t add any.*
 
-**You will get really bad marks for non-functional Javascript—if you can’t execute it well, don’t do any.**
+**You will get really bad marks for non-functional JavaScript—if you can’t execute it well, don’t do any.**
 
 *p.s. — don’t forget a favicon.*
 
@@ -43,7 +43,7 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 | **Text content** | Fake content only | Some real content, some fake | All real content but with lots of errors | Real content, well written, no grammar or spelling errors |
 | **Responsiveness** | Not responsive | Works on some screens | Responsive but with lots of awkwardness | Looks great on all screen sizes |
 | **Performance** | Mega slow… | Slow… | Could load faster | Blazing fast awesomeness |
-| **Javascript<br>(If it exists)** | Completely broken | Semi-functional | Works okay but the non-Javascript experience is better | Very much improves the experience |
+| **JavaScript<br>(If it exists)** | Completely broken | Semi-functional | Works okay but the non-JavaScript experience is better | Very much improves the experience |
 | **Code quality** | Barely started | Indentation is barely existent, lots of validation errors, very poor semantics | Decent indentation, just a couple validation errors, decent semantics | Well indented, fully valid, good semantics |
 
 ---
@@ -51,8 +51,8 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 ## Hand in
 
 1. Upload the assignment to GitHub and make sure it works
-2. Submit the GitHub URL to Canvas
+2. Submit your domain to Canvas
 
 ```
-https://username.github.io/portfolio/
+https://yourdomain.ca/
 ```
