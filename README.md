@@ -51,7 +51,7 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 
 ## Hand in
 
-1. Upload the assignment to GitHub and make sure it works
+1. Upload the assignment to GitHub and make sure it works on Netlify
 2. Create an Issue, attached to your portfolio repository—**and tag me**
 
 The Issue should have the following things:
